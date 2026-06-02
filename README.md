@@ -40,7 +40,7 @@ I build practical software for real business use — from web applications and e
 - UX-aware product presentation and technical problem solving
 
 ## Tools
-`PHP` `MariaDB` `MySQL` `JavaScript` `HTML` `CSS` `Delphi` `Embarcadero Delphi` `GitHub` `Windsurf` `Windows` `Android` `Debian Linux` `AI Tools`
+`PHP` `MariaDB` `MySQL` `JavaScript` `HTML` `CSS` `Delphi` `Embarcadero Delphi` `GitHub` `VS Code` `Sublime Text` `Windows` `Android` `Debian Linux` `AI Tools`
 
 ## Focus
 Clean solutions, practical architecture, and software that helps people get real work done.
